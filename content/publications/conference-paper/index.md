@@ -28,8 +28,6 @@ tags:
 
 featured: true
 
-links: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/]
-
 projects: []
 
 slides: ""
