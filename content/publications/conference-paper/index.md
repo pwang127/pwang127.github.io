@@ -1,6 +1,8 @@
 ---
 title: 'Mapping Documentation Burden: Analyzing Centrality and Clusters among Flowsheet Measures and Templates Through Network Analysis'
 
+external_link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
+
 authors:
   - me
   - Amy Finnegan
