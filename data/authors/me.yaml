@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Pinyue "Vicky" Wang
+  display: Vicky Wang
   given: Vicky
   family: Wang
   alternate: ''  # Example: 王伟
@@ -15,7 +15,7 @@ status:
   icon: "🌙"
 role: PhD student at Harvard University
 bio: |
-  Vicky is a PhD student studying Health Policy Management at Harvard University. 
+  Pinyue "Vicky" Wang is a PhD student studying Health Policy Management at Harvard University. 
   Her academic interests include clinical informatics, healthcare operations, and management.
 
 affiliations:
@@ -36,7 +36,6 @@ links:
 interests:
   - Biomedical Informatics
   - Healthcare Operations
-  - AI4Science
 
 education:
   - degree: PhD Health Policy Management
