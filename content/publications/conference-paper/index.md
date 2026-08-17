@@ -26,7 +26,7 @@ tags:
 
 featured: true
 
-links: []
+links: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/]
 
 projects: []
 
