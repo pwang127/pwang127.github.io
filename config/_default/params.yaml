@@ -37,13 +37,23 @@ hugoblox:
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
+  theme:
+    mode: system
+    pack: "default"
+
     colors:
       primary: "#A51C30"
       secondary: "#A51C30"
       neutral: ""
-    # Optional: Mode-specific color overrides
-    colors_light: {}
-    colors_dark: {}
+
+    colors_light:
+      primary: "#A51C30"
+      secondary: "#A51C30"
+
+    colors_dark:
+      primary: "#A51C30"
+      secondary: "#A51C30"
+    
     # Optional: Semantic surface color overrides
     surfaces:
       background: ""
