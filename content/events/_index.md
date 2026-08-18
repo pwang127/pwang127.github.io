@@ -7,6 +7,12 @@ links:
     name: "AMIA 2025 Symposium"
     url: "https://amia.org/"
 
+links:
+  - type: custom
+    icon: hero/document-text
+    name: "Paper"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
+
 location: "Atrium Ballroom B, Atlanta, Georgia"
 
 summary: "Oral presentation on applying network analysis to identify and characterize documentation burden in EHR flowsheets."
