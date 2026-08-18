@@ -1,0 +1,4 @@
+/* Hide Creative Commons license icons in footer */
+footer a[href*="creativecommons.org"] {
+  display: none !important;
+}
