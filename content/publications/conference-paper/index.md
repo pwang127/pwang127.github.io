@@ -4,7 +4,7 @@ title: 'Mapping Documentation Burden: Analyzing Centrality and Clusters among Fl
 links:
   - type: custom
     icon: hero/link
-    name: "Site"
+    name: "Paper"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
    
 authors:
