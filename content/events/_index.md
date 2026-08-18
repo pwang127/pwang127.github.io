@@ -20,6 +20,7 @@ all_day: false
 authors:
   - me
 show_author_byline: false
+share: false
 
 tags:
   - Clinical Informatics
