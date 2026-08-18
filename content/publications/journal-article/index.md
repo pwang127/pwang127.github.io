@@ -15,6 +15,12 @@ authors:
 
 date: "2025-09-01T00:00:00Z"
 
+links:
+  - type: custom
+    icon: hero/link
+    name: "Paper"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/](https://www.redjournal.org/article/S0360-3016(25)03135-9/fulltext"
+    
 # Publication type
 publication_types:
   - "article-journal"
