@@ -1,8 +1,16 @@
 ---
 title: "Mapping Documentation Burden: Analyzing Centrality and Clusters among Flowsheet Measures and Templates Through Network Analysis"
 
-event: "AMIA 2025 Annual Symposium"
-event_url: "https://amia.org/education-events/amia-2025-annual-symposium"
+links:
+  - type: custom
+    icon: hero/link
+    name: "AMIA 2025 Symposium"
+    url: "https://amia.org/"
+
+  - type: custom
+    icon: hero/document-text
+    name: "Paper"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
 
 location: "Atrium Ballroom B, Atlanta, Georgia"
 
@@ -17,6 +25,9 @@ all_day: false
 authors:
   - me
 
+show_author_byline: false
+share: false
+
 tags:
   - Clinical Informatics
   - Electronic Health Records
@@ -24,14 +35,6 @@ tags:
   - Network Analysis
 
 featured: true
-
-links:
-  - type: custom
-    icon: hero/link
-    name: Event
-    url: "https://lnkd.in/gj8varkJ"
 ---
 
 Presented at the **2025 AMIA Annual Symposium** in Atlanta, Georgia.
-
-This work uses network analysis to quantify and visualize relationships among EHR flowsheet templates and measures, with the goal of better understanding documentation burden and informing future clinical workflow design.
