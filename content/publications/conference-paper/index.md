@@ -1,8 +1,12 @@
 ---
 title: 'Mapping Documentation Burden: Analyzing Centrality and Clusters among Flowsheet Measures and Templates Through Network Analysis'
 
-external_link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
-
+links:
+  - type: custom
+    icon: hero/link
+    name: "Site"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
+   
 authors:
   - Pinyue Vicky Wang
   - Amy Finnegan
