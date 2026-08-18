@@ -16,10 +16,8 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
       headings:
@@ -27,23 +25,20 @@ sections:
         education: ''
         interests: ''
     design:
-  # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-  background:
-    gradient_mesh:
-      enable: false
+      background:
+        gradient_mesh:
+          enable: false
 
-  # Reduce the large blank space above the profile
-  spacing:
-    padding: ['30px', '0', '40px', '0']
+      spacing:
+        padding: ['30px', '0', '40px', '0']
 
-  # Name heading sizing to accommodate long or short names
-  name:
-    size: md
+      name:
+        size: md
 
-  # Avatar customization
-  avatar:
-    size: medium
-    shape: circle
+      avatar:
+        size: medium
+        shape: circle
+
   - block: markdown
     content:
       title: 'My Research'
@@ -52,6 +47,7 @@ sections:
         My research applies AI, computer science, and data science to address real-world challenges in healthcare. I use a combination of quantitative and qualitative methods to develop, implement, and evaluate clinical decision support and EHR-based technologies. My work focuses on helping healthcare providers and hospital administrators make better decisions, optimize clinical workflows and operations, and ultimately improve patient care.
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -80,7 +76,7 @@ sections:
         padding: [0, 0, 0, 0]
 
   - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
+    demo: true
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -96,7 +92,6 @@ sections:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
         css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
         css_style: ''
 ---
