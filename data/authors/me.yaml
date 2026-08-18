@@ -37,16 +37,16 @@ interests:
 education:
   - degree: PhD Health Policy Management
     institution: Harvard University
-    start: 2026
+    start: 2026-08
     end: Present
   - degree: MS Biomedical Informatics
     institution: Columbia University
-    start: 2024
-    end: 2026
+    start: 2024-08
+    end: 2026-05
   - degree: BS Information System & Operations Management, Quantitative Sciences
     institution: Emory University
-    start: 2020
-    end: 2024
+    start: 2020-08
+    end: 2024-05
 
 experience:
   - role: Research Assistant
