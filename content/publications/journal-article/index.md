@@ -45,16 +45,4 @@ tags:
 
 featured: true
 
-# Add DOI here later if desired
-hugoblox:
-  ids: {}
-
-# Add publication links here when available
-links: []
-
-# No associated projects
-projects: []
-
-# No associated slides
-slides: ""
 ---
