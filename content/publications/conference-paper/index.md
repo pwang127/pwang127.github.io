@@ -4,7 +4,7 @@ title: 'Mapping Documentation Burden: Analyzing Centrality and Clusters among Fl
 external_link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919536/"
 
 authors:
-  - me
+  - Pinyue Vicky Wang
   - Amy Finnegan
   - Po-Yin Yen
   - Sarah C. Rossetti
