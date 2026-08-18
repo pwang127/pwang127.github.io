@@ -16,19 +16,23 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-      background:
-        gradient_mesh:
-          enable: false
+  # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+  background:
+    gradient_mesh:
+      enable: false
 
-      # Name heading sizing to accommodate long or short names
-      name:
-        size: md # Options: xs, sm, md, lg (default), xl
+  # Reduce the large blank space above the profile
+  spacing:
+    padding: ['30px', '0', '40px', '0']
 
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+  # Name heading sizing to accommodate long or short names
+  name:
+    size: md
+
+  # Avatar customization
+  avatar:
+    size: medium
+    shape: circle
   - block: markdown
     content:
       title: 'My Research'
