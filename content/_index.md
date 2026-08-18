@@ -6,6 +6,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <img src="/uploads/emorybackground.jpg" alt="" style="width:100%; height:320px; object-fit:cover; display:block;">
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
+
+sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
