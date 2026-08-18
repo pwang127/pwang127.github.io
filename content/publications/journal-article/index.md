@@ -2,7 +2,7 @@
 title: "Ultrasound-Measured Skin Thickness Changes in Breast Cancer Patients Receiving Radiation"
 
 authors:
-  - me
+  - Pinyue Vicky Wang
   - Richard LJ Qiu
   - Reema Martini
   - Jing Wang
