@@ -8,19 +8,15 @@ name:
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: she/her
-postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "🌙"
 role: PhD student at Harvard University
 bio: |
-  Pinyue "Vicky" Wang is a PhD student studying Health Policy Management at Harvard University. 
-  Her academic interests include clinical informatics, healthcare operations, and management.
+  Hi, my name is Vicky. I am a PhD student in Health Policy Management at Harvard University. 
+  My research interests focus on biomedical informatics, healthcare operations, and management, 
+  with a particular interest in electronic health records, clinical decision support, and patient safety.
 
 affiliations:
   - name: Harvard University
-    url: https://www.harvard.edu/
+    url: https://healthpolicy.fas.harvard.edu/people/pinyue-vicky-wang
 
 links:
   - icon: at-symbol
@@ -35,6 +31,8 @@ links:
 
 interests:
   - Biomedical Informatics
+  - Clinical Decision Support
+  - Electronic Health Records
   - Healthcare Operations
 
 education:
@@ -68,11 +66,3 @@ experience:
     org: Alibaba Group
     start: 2022-06-01
     end: 2022-08-01
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Mandarin
-    level: 5
-    label: Native
