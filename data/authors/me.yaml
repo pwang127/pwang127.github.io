@@ -10,12 +10,16 @@ name:
   pronouns: she/her
 role: PhD student in Health Policy
 bio: |
-  Hi, my name is Vicky. I am a PhD student in Health Policy Management at Harvard University. 
+  Hi, my name is Vicky. I am a PhD student in Health Policy Management at Harvard University and am affiliated with the Technology and Operations Management unit at Harvard Business School.
   My research interests focus on biomedical informatics, healthcare operations, and management.
   
 affiliations:
   - name: Harvard University
     url: https://healthpolicy.fas.harvard.edu/people/pinyue-vicky-wang
+  - name: Technology & Operations Management (TOM)
+    url: https://www.hbs.edu/faculty/units/tom/Pages/doctoral.aspx
+  - name: Harvard Business School
+    url: https://www.hbs.edu/
 
 links:
   - icon: at-symbol
