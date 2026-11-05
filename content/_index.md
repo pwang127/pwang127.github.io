@@ -1,3 +1,4 @@
+
 ---
 # Leave the homepage title empty to use the site title
 title: ''
@@ -65,7 +66,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-  - block: More About Me
+  - block: markdown
     id: more-about-me
     content:
       title: 'More About Me'
