@@ -80,3 +80,4 @@ sections:
         Today, I also enjoy **hosting local charity events and supporting community initiatives**. Combining my love for performing with my passion for volunteering has been especially rewarding, and I'm always excited to contribute to causes that bring people together and make a positive difference.
     design:
       columns: '1'
+---
