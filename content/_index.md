@@ -65,7 +65,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-    - block: markdown
+- block: markdown
     id: more-about-me
     content:
       title: 'More About Me'
