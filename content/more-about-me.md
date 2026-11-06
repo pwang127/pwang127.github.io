@@ -1,12 +1,12 @@
 
 ---
-title: "More About Me"
+title: "Beyond Academia"
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: "More About Me"
+      title: "Beyond Academia"
       subtitle: ""
       text: |-
         Music has been a lifelong passion of mine. I began my musical journey as a childhood television performer and recording artist, frequently appearing on television, recording children's songs in professional studios, and participating in public service advertisements. Growing up in front of the camera and behind the microphone sparked a love for music and performance that continues to this day. Beyond singing, I enjoy playing the pipa, cello, piano, and ukulele.
